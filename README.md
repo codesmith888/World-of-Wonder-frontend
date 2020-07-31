@@ -78,6 +78,7 @@ https://condescending-spence-15bcf7.netlify.app/
   <li>Native American Room Image Credit: https://commons.wikimedia.org/wiki/</li>
   <li>File:Mesa-Arizona_Museum_of_Natural_History-Arizona_Native_American_exhibit.jpg</li>
   <li>Hover: https://www.cssmatic.com/box-shadow</li>
+  <li>'https://www.freepik.com/free-photos-vectors/frame'>Frame vector created by macrovector - www.freepik.com</li>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
